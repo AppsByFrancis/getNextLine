@@ -1,2 +1,1 @@
-hello
-appending new content
+helloappending new content
